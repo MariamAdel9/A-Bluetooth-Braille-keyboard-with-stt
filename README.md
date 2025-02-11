@@ -29,10 +29,10 @@ https://youtu.be/isuPdgXAj5E
 
 ## Photos
 The Circuit:
-![Circuit](image1.jpg)
+![Circuit](image.jpeg)
 
 Final implementation 
 ![Final Implementation](image2.jpg)
 
 Braille Figure
-![Braille Figure](image.jpg)
+![Braille Figure](image1.jpg)
